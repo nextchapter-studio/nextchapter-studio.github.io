@@ -1,7 +1,7 @@
-# nextchapter-games.github.io
+# nextchapter-studio.github.io
 
-Website of Next Chapter Games (Next Chapter s. r. o.), served by GitHub Pages
-at https://nextchapter-games.github.io. Plain HTML, no build step.
+Website of Next Chapter Studio (Next Chapter s. r. o.), served by GitHub Pages
+at https://nextchapter-studio.github.io. Plain HTML, no build step.
 
 - `index.html` lists the apps; each app has its own folder with a page and a
   privacy policy (the URL given to Google Play), e.g. `aldric/privacy.html`.
